@@ -15,4 +15,4 @@ Este projeto é um gerador de senhas dinâmico feito com Python e Flask, que per
    ![PYTHON](https://img.shields.io/badge/PYTHON-000?style=for-the-badge&logo=python&logoColor=1DE41A) 
    ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=HTML5&logoColor=f06529) 
    ![CSS3](https://img.shields.io/badge/css3-000?style=for-the-badge&logo=css3&logoColor=2965f1)
-   ![JAVASCRIPT](https://img.shields.io/badge/javascriptlogo-black?style=for-the-badge&logo=javascript)
+   ![JAVASCRIPT](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
