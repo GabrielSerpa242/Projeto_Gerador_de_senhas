@@ -11,5 +11,5 @@ Este projeto é um gerador de senhas dinâmico feito com Python e Flask, que per
 
 - Projeto didático, ótimo para iniciantes em Flask.
 
-  ## Tecnologias
+##Tecnologias
    ![PYTHON](https://img.shields.io/badge/PYTHON-000?style=for-the-badge&logo=python&logoColor=1DE41A)
