@@ -2,7 +2,7 @@
 
 Este projeto é um gerador de senhas dinâmico feito com Python e Flask, que permite ao usuário escolher o tamanho da senha e se deseja incluir letras maiúsculas, números e símbolos. A aplicação possui uma interface simples, clara e funcional — ideal para quem quer praticar desenvolvimento web com Python.
 
- ⚙️#Funcionalidades:
+ # Funcionalidades:
 - Geração de senhas seguras personalizadas;
 
 - Interface web feita com HTML + Bootstrap;
